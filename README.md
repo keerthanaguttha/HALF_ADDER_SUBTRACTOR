@@ -72,8 +72,7 @@ assign D = a ^ b;
   assign Bo = ~a & b;
 endmodule
 ```
- 
- */
+  */
 **RTL Schematic**
 ![Screenshot 2024-03-20 171711](https://github.com/keerthanaguttha/HALF_ADDER_SUBTRACTOR/assets/145742927/53910a8d-2ade-403b-8ed0-58c695491f16)
 
